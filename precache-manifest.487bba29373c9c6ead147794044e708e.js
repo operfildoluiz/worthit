@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/worthit/static/js/runtime~main.7a6d370c.js"
   },
   {
-    "revision": "3bdcdc4bc60989686f6b",
-    "url": "/worthit/static/js/main.3bdcdc4b.chunk.js"
+    "revision": "744b391df3d6094804b5",
+    "url": "/worthit/static/js/main.744b391d.chunk.js"
   },
   {
     "revision": "b23b7746bd4c5ae4d371",
     "url": "/worthit/static/js/1.b23b7746.chunk.js"
   },
   {
-    "revision": "7a1000a1dc788a0af57926beba1447b4",
+    "revision": "0a0342c6d7c02e90a8af498291398f3b",
     "url": "/worthit/index.html"
   }
 ];
