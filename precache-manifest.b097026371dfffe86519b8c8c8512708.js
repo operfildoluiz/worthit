@@ -12,7 +12,7 @@ self.__precacheManifest = [
     "url": "/worthit/static/js/1.b23b7746.chunk.js"
   },
   {
-    "revision": "469a1c1b2ee53a487f893328c52e1a63",
+    "revision": "7a1000a1dc788a0af57926beba1447b4",
     "url": "/worthit/index.html"
   }
 ];
