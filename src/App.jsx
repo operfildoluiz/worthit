@@ -37,6 +37,7 @@ class App extends Component {
             <div className="container">
               <h1 className="title">Vale a pena?</h1>
               <h2 className="subtitle">Calcule o preço anual de um item e economize dinheiro</h2>
+              <a href="https://github.com/lhcgoncalves/worthit" target="_blank" rel="noopener noreferrer">Deixe sua ★ no GitHub</a>
             </div>
           </div>
         </section>
